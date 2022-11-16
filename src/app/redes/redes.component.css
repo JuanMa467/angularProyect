@@ -1,0 +1,35 @@
+/*
+redes sociales
+*/
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-github.fa-2xl,
+i.fa-solid.fa-user.fa-2xl,
+i.fa-solid.fa-music.fa-2xl,
+i.fa-solid.fa-user-lock.fa-2xl
+{
+  color: #ffffff;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+  color:hotpink;
+}
+i.fa-solid.fa-music.fa-2xl:hover{
+  color:rgba(14, 244, 14, 0.625);
+}
+    
+i.fa-brands.fa-github.fa-2xl:hover{
+  color: #3d506a;
+}
+i.fa-solid.fa-user-lock.fa-2xl:hover{
+  color: #0022fd;
+}
+i.fa-solid.fa-user.fa-2xl:hover{
+  color: #0022fd;
+}
+    
+.list-group{
+ --bs-list-group-bg: transparent;
+ --bs-list-group-border-color:transparent;
+}
+/*
+redes sociales termina
+*/

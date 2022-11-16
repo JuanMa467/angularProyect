@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color:#000000;
+    color: #ffffff;
+}
+/*
+Para todos los botones-close
+*/
+.btn-close{
+    color:#ffffff
+  
+  }
+  .btn-close:hover{
+    color:#ffffff
+  }
+
+  /*
+Titulos y Subtitulos
+*/
+.titulo,.titulo1{
+  color: rgb(0, 30, 255);
+ }
+ .titulo2{
+   color: #04f5c5c8;
+ }
+ .titulo3{
+   color: rgb(133, 42, 179);
+ }

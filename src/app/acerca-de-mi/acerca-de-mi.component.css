@@ -1,0 +1,8 @@
+.acercaDeMi{
+    font-family: 'Shadows Into Light', cursive;
+    background: rgb(0,0,0);
+  background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(45,252,253,1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(45,252,253,1) 100%);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(45,252,253,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#2dfcfd",GradientType=1);
+  }

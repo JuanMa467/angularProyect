@@ -1,0 +1,17 @@
+/*
+Modals
+*/
+.modal{
+    font-family: 'Shadows Into Light', cursive;
+    --bs-modal-bg:rgb(0, 0, 0);
+}
+.modal-title{
+    color: cornflowerblue;
+  }
+  
+/*
+letras de un modal
+*/
+input#staticEmail {
+    color: #ffff;
+  }
