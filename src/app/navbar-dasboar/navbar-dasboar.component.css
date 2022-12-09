@@ -1,0 +1,25 @@
+/*
+nav de dashbord
+*/
+.nav-link {
+    --bs-nav-link-color:rgb(0, 89, 255);
+    --bs-nav-link-hover-color:rgb(0, 0, 0);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #000000;
+}
+/*
+nav
+*/
+.navbar.navbar-expand-lg.bg-light{
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(252,0,0,1) 43%, rgb(1, 213, 255) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(252,0,0,1) 43%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(252,0,0,1) 43%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
+}
+.list-group{
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color:transparent;
+   }
+      

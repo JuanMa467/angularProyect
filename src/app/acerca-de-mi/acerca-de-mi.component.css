@@ -6,3 +6,10 @@
   background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(45,252,253,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#2dfcfd",GradientType=1);
   }
+  /*
+imagen de perfil y el nombre
+*/
+.rounded-5, .nombre{ 
+  margin-top: 10px;
+  margin-left: -10%;
+}

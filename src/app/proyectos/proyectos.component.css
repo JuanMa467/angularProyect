@@ -1,0 +1,18 @@
+section.proyectos{
+    font-family: 'Playfair Display SC', serif;
+    background: rgb(125,125,125);
+  background: -moz-linear-gradient(0deg, rgba(125,125,125,1) 26%, rgba(255,0,0,1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(125,125,125,1) 26%, rgba(255,0,0,1) 100%);
+  background: linear-gradient(0deg, rgba(125,125,125,1) 26%, rgba(255,0,0,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7d7d7d",endColorstr="#ff0000",GradientType=1);
+  }
+
+  
+/*
+card
+*/
+.card{
+    background-color: #000000;
+    margin-block-end: 2rem;
+    margin-left: 42.5%;
+   }

@@ -1,0 +1,23 @@
+/*
+Boton de salida 
+*/
+.dropdown-menu.show {
+    display: block;
+    margin-left: -7rem;
+    margin-top: 1rem;
+    }
+  .dropdown-menu {
+    --bs-dropdown-bg: #020202;
+    --bs-dropdown-link-color: #9accff;
+    text-align: right;
+  }
+i.fa-solid.fa-user.fa-2xl:hover{
+   color: #ffffff;
+}
+i.fa-solid.fa-user.fa-2xl{
+    color: #0022fd;
+  }
+  .list-group{
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color:transparent;
+   }
