@@ -1,0 +1,27 @@
+/*
+tab-content de Dashboar
+*/
+.tab-content,.tab-pane{
+    color: #000000 !important;
+    font-family: 'Shadows Into Light', cursive;
+}
+.nav{
+    --bs-nav-link-padding-x: 3rem;
+    --bs-nav-link-padding-y: 2rem;
+}
+/*
+nav de dashbord
+*/
+.nav-link {
+    --bs-nav-link-color:rgb(0, 89, 255);
+    --bs-nav-link-hover-color:rgb(0, 0, 0);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #000000;
+}
+/*
+tab
+*/
+button, input, optgroup, select, textarea {
+    margin: auto;
+  }
